@@ -3,7 +3,6 @@
 Hey there! If you're reading this, you probably found my github profile by luck, or if I have done anything cool on github by now, I probably forgot to change this.
 
 </br>
-</br>
 
 ### What I do
 
@@ -17,7 +16,6 @@ I also have another very simple project right now: a battery limiter for ASUS la
 Other than that, I mostly play games and like emulation a lot.
  I  like Apple products a lot, and by "Apple products" I mean specifically iPhones/iOS and Apple Music. They have pretty good looking UI, so, you might see me replicating that in my projects if I am ever able to and if it's worth it.
 
-</br>
 </br>
 
 ### Plans for the future
