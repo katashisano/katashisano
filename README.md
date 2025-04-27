@@ -11,7 +11,7 @@ Although, when I code, I usually don't upload the code to github unless it was p
 
 I have a few cool/useful projects, like a Minecraft modpack mod downloader for linux as there is no Curseforge launcher on linux, and I wouldn't like to install it either to be honest. I would upload it to github, but the code is a mess.
 
-I also have another very simple project right now: a battery limiter for ASUS laptops with a GUI, which, as of writing this (18th Dec. 2023), I'm planning to upload soon. (I might not in a long time lol)
+(Stuff I said earlier I didn't actually do)
 
 Other than that, I mostly play games and like emulation a lot.
  I  like Apple products a lot, and by "Apple products" I mean specifically iPhones/iOS and Apple Music. They have pretty good looking UI, so, you might see me replicating that in my projects if I am ever able to and if it's worth it.
